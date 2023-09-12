@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
 - 🔭 I’m currently unemployed and still looking for a Data Engineer job.
