@@ -22,7 +22,10 @@ Here are some ideas to get you started:
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=atpluem&style=flat-square&color=blue" alt=""/>
-  <h1> Hi there, I am Athispat 👋 </h1>
+  <h1> 
+    Hi there, I am Athispat
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 ---
