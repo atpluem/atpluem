@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
   - Amazon Web Services (AWS)
   - Exploring the data stack and doing the hands-on
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athispat-p/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athispat-p/)
 - 🏆 My certifications and courses
   - [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/TY93D9DR6FC9)
   - [IBM Data Science](https://coursera.org/verify/professional-cert/SR2X8CLFGWLN)
