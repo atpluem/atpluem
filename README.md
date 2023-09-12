@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
   - Amazon Web Services (AWS)
   - Exploring the data stack and doing the hands-on
-- 📫 How to reach me: [Linkedin](_https://www.linkedin.com/in/athispat-p/) | [Website](_https://atpluem.github.io/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/athispat-p/) | [Website](https://atpluem.github.io/)
 - 🏆 My certifications and courses
   - [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/TY93D9DR6FC9)
   - [IBM Data Science](https://coursera.org/verify/professional-cert/SR2X8CLFGWLN)
