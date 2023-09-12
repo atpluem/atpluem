@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <h1> Hi there, I am Athispat 👋 </h1>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently unemployed and still looking for a Data Engineer job.
