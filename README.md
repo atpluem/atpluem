@@ -52,4 +52,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
-    
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atpluem&theme=dark&background=000000)](https://git.io/streak-stats)
+
