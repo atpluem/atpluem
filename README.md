@@ -22,12 +22,10 @@ Here are some ideas to get you started:
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=atpluem&style=flat-square&color=blue" alt=""/>
+  <h1> Hi there, I am Athispat 👋 </h1>
 </div>
 
-<h1>
-  Hi there, I am Athispat 👋
-</h1>
-
+### :man_technologist: About Me :
 
 - 🔭 I’m currently unemployed and still looking for a Data Engineer job.
 - 🌱 I’m currently learning
