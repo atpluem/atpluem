@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently unemployed and still looking for a Data Engineer job.
-- 🌱 I’m currently learning
-  - Amazon Web Services (AWS)
-  - Exploring the data stack and doing the hands-on
+- 🔭 I’m currently a master's degree student in Engineering and Technology.
+- 🌱 I’m currently doing
+  - A research on Road-based Map Matching & Route interpolation on large-scale GPS data.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/athispat-p/) | [Website](https://atpluem.github.io/)
 - 🏆 My certifications and courses
   - [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/TY93D9DR6FC9)
@@ -44,21 +43,20 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" title="Databricks" alt="Databricks" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1000px-Apache_Hive_logo.svg.png" title="Hive" alt="Hive" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atpluem&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=atpluem)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atpluem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
